@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fc09385fa46c3ca683083ce5",
+  "owner": "cqbuwhkptvc",
+  "repo": "page-5f41312564cb33dafeaf9ec2",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f41312564cb33dafeaf9ec2",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0263737e527056e1b5ec19c8b227c530c59e01a5c1e87fa10ce4d75bcaf5def4",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供稳定VPN加速器服务，助力您畅享高速网络。支持多设备，解锁流媒体，官方客户端下载尽在官网。",
+          "AI_DESCRIPTION": "大哥云提供稳定VPN加速器服务，助力您畅享高速网络。支持多设备，解锁流媒体，官方客户端下载尽在官网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    margin: 0;\n    padding: 0;\n    background-color: #FAF8F0;\n    color: #333;\n    line-height: 1.6;\n  }\n  .container {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 0 20px;\n  }\n  header {\n    background-color: #228B22;\n    color: white;\n    padding: 1rem 0;\n  }\n  nav {\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  }\n  .logo {\n    font-size: 1.8rem;\n    font-weight: bold;\n  }\n  .nav-links {\n    display: flex;\n    gap: 2rem;\n  }\n  .nav-links a {\n    color: white;\n    text-decoration: none;\n    font-weight: 500;\n  }\n  .hero {\n    background: linear-gradient(135deg, #228B22, #1a6b1f);\n    color: white;\n    padding: 4rem 0;\n    text-align: center;\n  }\n  .hero h1 {\n    font-size: 3rem;\n    margin-bottom: 1rem;\n  }\n  .section {\n    padding: 3rem 0;\n  }\n  h2 {\n    color: #228B22;\n    font-size: 2rem;\n    margin-bottom: 1.5rem;\n  }\n  .columns {\n    display: flex;\n    gap: 2rem;\n    flex-wrap: wrap;\n  }\n  .column {\n    flex: 1;\n    min-width: 300px;\n  }\n  ul, ol {\n    padding-left: 1.5rem;\n  }\n  .plans-container {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n    gap: 1.5rem;\n  }\n  details {\n    background: white;\n    margin-bottom: 1rem;\n    border-radius: 8px;\n    overflow: hidden;\n  }\n  summary {\n    padding: 1rem;\n    font-weight: bold;\n    cursor: pointer;\n    background: #FAF8F0;\n  }\n  .faq-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n    gap: 1rem;\n  }\n</style>\n\n\n  <header>\n    <div class=\"container\">\n      <nav>\n        <div class=\"logo\">大哥云</div>\n        <div class=\"nav-links\">\n          <a href=\"#\">首页</a>\n          <a href=\"#\">套餐</a>\n          <a href=\"#\">下载</a>\n          <a href=\"#\">FAQ</a>\n        </div>\n      </nav>\n    </div>\n  </header>\n  <main>\n    <section class=\"hero\">\n      <div class=\"container\">\n        <h1>大哥云</h1>\n        <p>稳定高速的VPN网络加速器</p>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>品牌简介</h2>\n        <p>大哥云致力于为您提供优质的网络加速服务，让您的上网更加顺畅和安全。无论您是日常使用还是企业需求，我们都有合适的解决方案。</p>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>使用场景</h2>\n        <div class=\"columns\">\n          <div class=\"column\">\n            <ul>\n              <li>国际流媒体平台解锁</li>\n              <li>在线游戏低延迟加速</li>\n              <li>远程办公网络安全</li>\n              <li>跨境访问无障碍</li>\n            </ul>\n          </div>\n          <div class=\"column\">\n            <p>无论是在家办公、娱乐追剧还是日常浏览，大哥云都能为您提供稳定可靠的加速体验。</p>\n          </div>\n        </div>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>操作说明</h2>\n        <div class=\"columns\">\n          <div class=\"column\">\n            <ol>\n              <li>访问官网下载客户端</li>\n              <li>安装并注册账号</li>\n              <li>选择节点进行连接</li>\n              <li>享受高速网络加速</li>\n            </ol>\n          </div>\n          <div class=\"column\">\n            <p>简单几步，即可完成网络加速配置，让您随时随地畅享高速网络。</p>\n          </div>\n        </div>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>套餐对比</h2>\n        <div>{{PLANS_HTML}}</div>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>合作伙伴</h2>\n        <div>{{CLIENTS_HTML}}</div>\n      </div>\n    </section>\n    <section class=\"section\">\n      <div class=\"container\">\n        <h2>常见问题 FAQ</h2>\n        <div class=\"faq-grid\">\n          <details>\n            <summary>如何订阅大哥云？</summary>\n            <p>登录官网，选择合适的套餐并完成支付，即可立即使用。</p>\n          </details>\n          <details>\n            <summary>支持哪些设备？</summary>\n            <p>支持 Windows、Mac、Android、iOS 等主流设备。</p>\n          </details>\n          <details>\n            <summary>节点速度如何？</summary>\n            <p>提供高速线路，确保稳定连接和低延迟体验。</p>\n          </details>\n          <details>\n            <summary>可以同时使用多台设备吗？</summary>\n            <p>支持多台设备同时在线，满足家庭或团队需求。</p>\n          </details>\n          <details>\n            <summary>有流量限制吗？</summary>\n            <p>根据不同套餐提供相应流量包，满足日常使用。</p>\n          </details>\n        </div>\n      </div>\n    </section>\n  </main>\n  <footer>\n    <div class=\"container\">\n      <p>© 2024 大哥云. 所有权利保留.</p>\n      <p>官网: 官方网站</p>\n    </div>\n  </footer>\n\n",
+          "hash": "799542d2d53bd6f8367a2e3e6de055feb5b26ac1df8fb80c596067574214c5ab",
+          "seo": {
+            "title": "大哥云 | 官方VPN加速器 高速网络加速服务",
+            "keywords": "大哥云,VPN加速器,网络加速,客户端下载,官网",
+            "description": "大哥云提供稳定VPN加速器服务，助力您畅享高速网络。支持多设备，解锁流媒体，官方客户端下载尽在官网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lnxswrv.cn",
+    "host": "m.lnxswrv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "lnxswrv.cn",
+      "url": "https://lnxswrv.cn/",
+      "label": "奶瓶(Nerwo)",
+      "apex": "lnxswrv.cn",
+      "kind": null,
+      "identity": "hhhgjpduk/page-c30cf6a7b285380cc55a45fd"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "72ebe3f78cf05aa516f29cd65d9f2aa7f91868fa44d2269985de40bc89a11c53",
+    "sitemap.xml": "4bbb791a9e8b13dcf1d311d653c95ee2c7451f5f0d3d4539e8f98ec26cbf81c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "397bc2da425b997944855691b22bd42bcb5ee3baf55edc94d35758fc9b7ce87d",
+    "robots.txt": "b6313bde1cee3d447fe8a50e13ea0d891f97f9a179526775b03091eff1115e10",
+    "a6be8a41d4a70ac16a97430fcce57d4f.txt": "5cd4b9bddfa85a7e1264cfc1f45b0ecc1b7d7164525a52a087249f3c76911a03"
+  },
+  "revision": "44fdd67ad3dcc41ac6dcae7f507adb541214944a39701d4cb7a26e7f07425c2e"
+}
